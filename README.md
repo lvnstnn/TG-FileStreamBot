@@ -2,7 +2,7 @@
 <p align="center">
   </a>
   <p align="center">
-    <a herf="https://github.com/EverythingSuckz/TG-FileStreamBot">
+    <a herf="https://github.com/lvnstnn/TG-FileStreamBot">
         <img src="https://telegra.ph/file/a8bb3f6b334ad1200ddb4.png" height="100" width="100" alt="File Stream Bot Logo">
     </a>
 </p>
@@ -11,11 +11,6 @@
     <br />
   </p>
 </p>
-
-<hr>
-
-> [!NOTE]
-> Checkout [python branch](https://github.com/EverythingSuckz/TG-FileStreamBot/tree/python) if you are interested in that.
 
 <hr>
 
